@@ -1,0 +1,6 @@
+This Folder is for Backend
+
+COMMANDS RUN IN TERMINAL 
+- npm init -y
+- npm install express mongoose cors nodemon (express for creating restful APIs mongoose for mongoose database, cors for accessing backend side in frontend, nodemon so that we don't have to refresh again and again)
+
